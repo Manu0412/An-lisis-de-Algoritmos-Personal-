@@ -7,7 +7,7 @@ class Solution:
 
        Casos base: Para la primera casa se toma su valor, y para la segunda se elige el máximo entre las dos primeras.
 
-        Complejidad: Tiempo: 0(n) y Espacio: O(n)
+        Complejidad: Tiempo: O(n) y Espacio: O(n)
         """
         if len(nums) == 1:
             return nums[0]
