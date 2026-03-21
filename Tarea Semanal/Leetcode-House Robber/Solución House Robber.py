@@ -5,7 +5,7 @@ class Solution:
         
         Recurrencia: Para cada casa, se elige entre conservar el máximo anterior o robarla y sumar su valor al máximo obtenido hasta dos casas atrás
 
-       Casos base: Para la primera casa se toma su valor, y para la segunda se elige el máximo entre las dos primeras.
+        Casos base: Para la primera casa se toma su valor, y para la segunda se elige el máximo entre las dos primeras.
 
         Complejidad: Tiempo: O(n) y Espacio: O(n)
         """
